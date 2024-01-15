@@ -23,7 +23,7 @@ export default {
     YoutubeUrl: "https://www.youtube.com/channel/UCEDJlXVGVHClXL_ihWsAfKw",
 
     // 推特链接
-    TwitterUrl: "https://twitter.com/MiaoMint_",
+    TwitterUrl: "https://twitter.com/pit_fly",
 
     // B站UID
     BilibiliUid: "384298756",

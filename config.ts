@@ -11,7 +11,7 @@ export default {
     Desc: "👋 Hi! 这里是 Musa 的主页",
 
     // Github 用户名
-    GithubUsername: "Musa",
+    GithubUsername: "Musa-T",
 
     // 博客RSS订阅
     BlogRSS: "",

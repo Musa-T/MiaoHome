@@ -14,16 +14,16 @@ export default {
     GithubUsername: "Musa",
 
     // 博客RSS订阅
-    BlogRSS: "https://blog.0u0.ren/feed/",
+    BlogRSS: "",
 
     // 博客链接
-    BlogUrl: "https://blog.0u0.ren",
+    BlogUrl: "",
 
     // 油管链接
-    YoutubeUrl: "https://www.youtube.com/channel/UCEDJlXVGVHClXL_ihWsAfKw",
+    YoutubeUrl: "",
 
     // 推特链接
-    TwitterUrl: "https://twitter.com/pit_fly",
+    TwitterUrl: "",
 
     // B站UID
     BilibiliUid: "384298756",
@@ -42,7 +42,7 @@ export default {
         Favicon: "https://www.freeimg.cn/i/2024/01/15/65a4d49e55339.jpg",
 
         // 站点关键词 多个使用 “,” 分割
-        KeyWords: "Musa,Erhecy,喵薄荷,主页,g8ink,短链接,博客",
+        KeyWords: "Musa,bilibili",
 
         // 站点介绍
         Desc: "👋 Hi! 这里是 Musa 的主页",

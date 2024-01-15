@@ -5,7 +5,7 @@ export default {
     Name: "Musa",
 
     // 头像
-    Avatar: "https://q1.qlogo.cn/g?b=qq&k=G1ibIlnicR8Ij4CZO3BF6cVA&s=640",
+    Avatar: "https://www.freeimg.cn/i/2024/01/15/65a4d49e55339.jpg",
 
     // 介绍
     Desc: "👋 Hi! 这里是 Musa 的主页",
@@ -39,7 +39,7 @@ export default {
         Title: "Musa 的主页",
 
         // 站点图标
-        Favicon: "https://q1.qlogo.cn/g?b=qq&k=G1ibIlnicR8Ij4CZO3BF6cVA&s=640",
+        Favicon: "https://www.freeimg.cn/i/2024/01/15/65a4d49e55339.jpg",
 
         // 站点关键词 多个使用 “,” 分割
         KeyWords: "Musa,Erhecy,喵薄荷,主页,g8ink,短链接,博客",
@@ -48,6 +48,6 @@ export default {
         Desc: "👋 Hi! 这里是 Musa 的主页",
     },
 
-    SiteBackground: "url(https://img.truimo.com/2022/807b270630a51.jpg) center/cover",
+    SiteBackground: "url(https://www.freeimg.cn/i/2024/01/15/65a4d545a6bd6.jpg) center/cover",
 
 }

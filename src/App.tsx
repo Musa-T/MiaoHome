@@ -1,5 +1,5 @@
 import { Route, Routes, Link, useLocation, Outlet } from "react-router-dom";
-import { Home, Github, Book, Film } from "lucide-react";
+import { Home, Github, } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 import GithubView from "./view/GithubView";
 import HomeView from "./view/HomeView";
@@ -36,8 +36,6 @@ function Nav() {
   const links = [
     { to: "/", text: "Home", icon: Home },
     { to: "/github", text: "Github", icon: Github },
-    { to: "/blog", text: "Blog", icon: Book },
-    { to: "/bangumi", text: "Bangumi", icon: Film },
   ]
   const location = useLocation()
   return (

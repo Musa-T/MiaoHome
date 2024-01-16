@@ -1,8 +1,6 @@
 import { Route, Routes, Link, useLocation, Outlet } from "react-router-dom";
 import { Home, Github, Book, Film } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
-import BangumiView from "./view/BangumiView";
-import BlogView from "./view/BlogView";
 import GithubView from "./view/GithubView";
 import HomeView from "./view/HomeView";
 import { useEffect } from "react";

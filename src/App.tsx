@@ -26,8 +26,6 @@ export default function App() {
         <Routes>
           <Route path="/" element={<HomeView />}></Route>
           <Route path="/github" element={<GithubView />}></Route>
-          <Route path="/blog" element={<BlogView />}></Route>
-          <Route path="/bangumi" element={<BangumiView />}></Route>
         </Routes>
       </div>
       <Nav />

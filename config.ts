@@ -48,6 +48,6 @@ export default {
         Desc: "👋 Hi! 这里是 Musa 的主页",
     },
 
-    SiteBackground: "url(https://www.freeimg.cn/i/2024/01/15/65a4d545a6bd6.jpg) center/cover",
+    SiteBackground: "url(https://api.isoyu.com) center/cover",
 
 }

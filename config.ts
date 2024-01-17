@@ -48,6 +48,6 @@ export default {
         Desc: "👋 Hi! 这里是 Musa 的主页",
     },
 
-    SiteBackground: "url(https://api.isoyu.com) center/cover",
+    SiteBackground: "url(https://api.isoyu.com/aipc_scenery.php) center/cover",
 
 }
